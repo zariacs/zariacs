@@ -9,8 +9,8 @@
 <ul>
   <li>Background in nonprofit organizations and community outreach.</li>
   <li>Would like to leverage technology to make the world a better place.</li> 
-  <li>:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/zaria-chen-shui/")</li>
-  <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+  <li></li>
+
 </ul>
 
 <!--
