@@ -9,7 +9,7 @@
 <ul>
   <li>Background in nonprofit organizations and community outreach.</li>
   <li>Would like to leverage technology to make the world a better place.</li> 
-  <li>Connect with me on&nbsp; <img href="https://www.linkedin.com/in/zaria-chen-shui/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="18" /></li>
+  <li>Connect with me on&nbsp; <a href="https://www.linkedin.com/in/zaria-chen-shui/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="18" /> </a> </li>
 
 </ul>
 
