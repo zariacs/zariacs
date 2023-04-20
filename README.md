@@ -14,7 +14,7 @@ Let's connect on &nbsp; <a href="https://www.linkedin.com/in/zaria-chen-shui/"> 
 
 ---
 <div align="center">
-  <h3> Languages, Tools and Frameworks : </h3>
+  <h3> Languages, Tools and Frameworks I'm Familiar With: </h3>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
