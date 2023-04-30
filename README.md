@@ -5,10 +5,10 @@
 
 <h1 align="center">Hi and welcome to my coding space. I keep track of my software engineering journey here.</h1>
 
-<h3>I am a Full Stack Web Developer from Kingston, Jamaica</h3>
+<h3>I am a software engineering student experienced in fullstack web development.</h3>
 <ul>
+  <li>Would like to leverage technology to make the world a better place.</li>
   <li>Background in nonprofit organizations and community outreach.</li>
-  <li>Would like to leverage technology to make the world a better place.</li> 
 </ul>
 Let's connect on &nbsp; <a href="https://www.linkedin.com/in/zaria-chen-shui/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20" border-radius="50"/> </a>
 
